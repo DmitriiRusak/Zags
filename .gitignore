@@ -1,0 +1,6 @@
+*.txt
+New folder/
+*.docx
+target/
+.idea/*
+*.xml
