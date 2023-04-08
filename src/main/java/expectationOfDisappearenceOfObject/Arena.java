@@ -16,7 +16,9 @@ import java.time.LocalTime;
 
 public class Arena {
     public static void main(String[] args) {
-        //ok and here is some more fantastic comments from master branch
+
+        //add some stange comments, jast for excesising
+
         System.setProperty("webdriver.chrome.driver","C:\\Program Files\\CHROME_DRIVER\\chromedriver.exe");
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--remote-allow-origins=*");
